@@ -1,0 +1,3 @@
+C:/Users/Lukas/CLionProjects/justAnotherMemoryLeak/cmake-build-debug/CMakeFiles/justAnotherMemoryLeak.dir
+C:/Users/Lukas/CLionProjects/justAnotherMemoryLeak/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lukas/CLionProjects/justAnotherMemoryLeak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
